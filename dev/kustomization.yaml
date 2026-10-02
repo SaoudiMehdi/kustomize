@@ -8,7 +8,7 @@ images:
   newTag: 4.0.1-SNAPSHOT
 - name: spring-petclinic
   newName: ghcr.io/saoudimehdi/spring-petclinic
-  newTag: 365439f7cf359e10a80f8184a36f48685a4cff49
+  newTag: 723090185906f120f9ae5e12dc7bd953af167d44
 patches:
 - path: replicas.yaml
   target:
